@@ -5,5 +5,6 @@
 # 使用方法
 
 eaplogoff ifname client_mac
+
 例如：eaplogoff eth0 68:f7:28:3a:6e:e5
     
